@@ -10,3 +10,5 @@ Important steps for git workflow:
 6. Review previous changes with git log
 
 Some more random changes for testing purposes.
+
+Another change to test git pull.
